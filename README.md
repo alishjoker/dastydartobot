@@ -1,4 +1,4 @@
-# LineChivas
+# Linedastydartobot
 _May the Chivas be with you..._
 
 Tutorial
@@ -16,9 +16,9 @@ Python packages :
     $ pip install rsa
     $ pip install requests
 
-Run Chivas :
+Run dastydartobot :
 
-    $ python chivasbot.py
+    $ python dastydartobot
 
 Video Tutorial
 ------
